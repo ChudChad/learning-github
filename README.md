@@ -35,5 +35,3 @@ npm run dev
 
 Le frontend démarre sur http://localhost:5173 et appelle le backend sur le port 8080.
 Lance les deux en parallèle.
-
-voila
