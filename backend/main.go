@@ -160,6 +160,7 @@ func cors(next http.Handler) http.Handler {
 	})
 }
 
+// Fonction main
 func main() {
 	srv := &server{store: newStore()}
 
